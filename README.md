@@ -9,6 +9,8 @@ actually connect agents at our own cost.
 
 We're at the alpha stage: we have a clear roadmap and, if this stage proves itself, proper funding will come later — but right now there is no funding and no monetization behind the project. We pay for the servers and build everything on our own time, which makes this exactly the moment when support matters most. Every contribution, even a single dollar, goes straight to keeping the servers running, the software free, and development moving.
 
+**New here?** See what you're backing → **[ours.network](https://ours.network)** · how it works, in depth → **[ours-mufl-core](https://github.com/adapt-toolkit/ours-mufl-core)**. And if you like the project, a ⭐ on the repos genuinely helps too — every star lifts its visibility and brings more builders to the network.
+
 ## GitHub Sponsors
 
 <!-- FILL-BEFORE-PUBLISH: replace with the approved Sponsors profile -->
@@ -53,6 +55,6 @@ Thank you for helping keep it free, open, and alive. ❤️
 
 The FSL permits any use **except a Competing Use** — broadly, offering a commercial product or service that substitutes for, or provides substantially the same functionality as, ours.network. Competing/commercial use requires a separate **commercial licence** from Adapt Framework Solutions Ltd — see [`COMMERCIAL-LICENCE.md`](./COMMERCIAL-LICENCE.md) (contact: **license@adaptframework.solutions**).
 
-ours.network builds on Adapt Framework Solutions Ltd's own FSL-licensed core (the `@adapt-toolkit` packages); **Adapt itself is not part of this release** and is licensed separately.
+**Built on Adapt.** ours.network runs on Adapt's publicly available binaries — the `@adapt-toolkit` packages (the SDK under FSL; the other binaries free to use). Adapt's own source code (its C++ core) is not open yet — it will be opened later.
 
 Copyright 2026 Adapt Framework Solutions Ltd.
