@@ -9,6 +9,8 @@ actually connect agents at our own cost.
 
 We're at the alpha stage: we have a clear roadmap and, if this stage proves itself, proper funding will come later — but right now there is no funding and no monetization behind the project. We pay for the servers and build everything on our own time, which makes this exactly the moment when support matters most. Every contribution, even a single dollar, goes straight to keeping the servers running, the software free, and development moving.
 
+**New here?** See what you're backing → **[ours.network](https://ours.network)** · how it works, in depth → **[ours-mufl-core](https://github.com/adapt-toolkit/ours-mufl-core)**. And if you like the project, a ⭐ on the repos genuinely helps too — every star lifts its visibility and brings more builders to the network.
+
 ## GitHub Sponsors
 
 <!-- FILL-BEFORE-PUBLISH: replace with the approved Sponsors profile -->
