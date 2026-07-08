@@ -13,20 +13,15 @@ We're at the alpha stage: we have a clear roadmap and, if this stage proves itse
 
 ## GitHub Sponsors
 
-<!-- FILL-BEFORE-PUBLISH: replace with the approved Sponsors profile -->
 **→ https://github.com/sponsors/adapt-toolkit**
 
 ## Crypto
 
-<!-- FILL-BEFORE-PUBLISH: real addresses, then delete this comment.
-     Every address change must be its own signed commit — see "Verifying". -->
 
 | Currency | Network | Address |
 |----------|---------|---------|
-| Bitcoin (BTC) | Bitcoin | `FILL-BEFORE-PUBLISH` |
-| Ethereum (ETH) | Ethereum mainnet | `FILL-BEFORE-PUBLISH` |
-| USDC / USDT | Ethereum mainnet | `FILL-BEFORE-PUBLISH` |
-| Monero (XMR) | Monero | `FILL-BEFORE-PUBLISH` |
+| Ethereum (ETH) | Ethereum mainnet | `0xE4b5e05547934ca59B706BbDe8a939AfE3b00B04` |
+| USDC / USDT | Ethereum mainnet | `0xE4b5e05547934ca59B706BbDe8a939AfE3b00B04` |
 
 ## Verifying these addresses
 
