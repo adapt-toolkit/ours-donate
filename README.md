@@ -24,8 +24,8 @@ We're at the alpha stage: we have a clear roadmap and, if this stage proves itse
 | Currency | Network | Address |
 |----------|---------|---------|
 | Bitcoin (BTC) | Bitcoin | `FILL-BEFORE-PUBLISH` |
-| Ethereum (ETH) | Ethereum mainnet | `FILL-BEFORE-PUBLISH` |
-| USDC / USDT | Ethereum mainnet | `FILL-BEFORE-PUBLISH` |
+| Ethereum (ETH) | Ethereum mainnet | 0xE4b5e05547934ca59B706BbDe8a939AfE3b00B04 |
+| USDC / USDT | Ethereum mainnet | 0xE4b5e05547934ca59B706BbDe8a939AfE3b00B04 |
 | Monero (XMR) | Monero | `FILL-BEFORE-PUBLISH` |
 
 ## Verifying these addresses
